@@ -1,0 +1,9 @@
+.taskInputContainer, .taskInputLabel, .taskInput {
+    max-width: 90%;
+    width: 1000px;
+}
+
+.taskInputBtn {
+    max-width: 10%;
+    width: 300px;
+}
